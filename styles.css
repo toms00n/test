@@ -1,0 +1,19 @@
+.body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-bar {
+    height: 100px;
+    display: flex;
+    align-items:center;
+    border-bottom: 1px solid #888989;
+    margin: 0;
+    clear: right;
+}
+
+img {
+    height: 99px;
+    width: auto;
+}
